@@ -11,3 +11,7 @@ A basic repository for the Infosys project.
 
 1. Clone this repository.
 2. Navigate to the respective milestone directories for project files.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
